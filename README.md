@@ -1,16 +1,42 @@
-# immobilier_app
+# Haven 
 
-A new Flutter project.
+immobilier_app
 
-## Getting Started
+## A propos de l'appli
 
-This project is a starting point for a Flutter application.
+Trouvez et publiez des annonces immobilières facilement
 
-A few resources to get you started if this is your first Flutter project:
+Découvrez Haven - Votre application immobilière complète !
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ RECHERCHEZ VOTRE BIEN IDÉAL
+- Parcourez des milliers d'annonces immobilières
+- Filtrez par prix, localisation, type de bien
+- Sauvegardez vos favoris
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ PUBLIEZ FACILEMENT
+- Créez des annonces en quelques minutes
+- Ajoutez vos photos et descriptions
+- Gérez vos publications en temps réel
+
+ COMMUNIQUEZ EN DIRECT
+- Envoyer des Demandes
+- Recevoir les repenses 
+- Échanges sécurisés et privés
+- Notifications instantanées
+
+ FONCTIONNALITÉS PRINCIPALES
+- Recherche avancée avec filtres
+- Publication simplifiée d'annonces
+- Gestion des favoris
+- Profil utilisateur personnalisé
+- Interface intuitive et fluide
+
+Téléchargez Haven maintenant et trouvez votre prochain chez-vous!
+
+## Rejoignent notre APP
+
+Participer sur Android:
+https://play.google.com/store/apps/details?id=com.khalil.haven
+
+Participer sur le Web:
+https://play.google.com/apps/testing/com.khalil.haven
